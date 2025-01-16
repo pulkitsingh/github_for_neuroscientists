@@ -15,11 +15,11 @@ Repository for Git+Github tutorial at the [UChicago Neuroscience and AI workshop
 - [How to not be afraid of Git anymore](https://medium.com/free-code-camp/how-not-to-be-afraid-of-git-anymore-fe1da7415286), by Neil Kakkar
 - [What is Git? Our beginner's guide to version control](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/), GitHub Blog
 - [Git cloning vs forking](https://graphite.dev/guides/git-clone-vs-fork), Graphite
-- [Git tips and notes](https://duzun.me/tips/git)
-- [Git it electron app](https://github.com/jlord/git-it-electron)
+- [Git tips and notes](https://duzun.me/tips/git), Dumitru Uzun
+- [Git it Desktop app for learning Git and GitHub](https://github.com/jlord/git-it-electron)
 
 
 ### Further reading
 - [Git - Beyond the Basics](https://4zm.org/2024/12/18/git-beyond-the-basics.html), The Ivory Tower
 - [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/), by Tommi Virtanen
-- [How to write a git commit message](https://cbea.ms/git-commit/)
+- [How to write a git commit message](https://cbea.ms/git-commit/), cbeams
